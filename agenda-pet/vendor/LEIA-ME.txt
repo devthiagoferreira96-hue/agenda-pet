@@ -1,0 +1,7 @@
+Esta pasta guarda as duas bibliotecas que o Agenda Pet usa, para o sistema não depender de site externo.
+Ela precisa ter estes 2 arquivos (baixe com os comandos do LEIAME.md, parte "Bibliotecas"):
+
+  supabase.js      (Supabase 2.45.4)
+  chart.umd.js     (Chart.js 4.4.1)
+
+Sem eles o sistema não abre.
